@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\HW\Task1\Task1\main.cpp(24,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Task1.vcxproj -> C:\HW\Task1\x64\Debug\Task1.exe
